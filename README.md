@@ -19,3 +19,6 @@ Thank you Patrick Collins for your awesome course.
 <a href="https://testnets.opensea.io/assets/sepolia/0x76b50696b8effca6ee6da7f6471110f334536321/1829" target="_blank">
 <img src="https://ipfs.io/ipfs/QmSCoS3N8qFy2D3Tn4vTPKTFAC1TAqSZgg9R4uCb7fZL7Q" alt="chapter 1" with='100' height='180'/> 
 </a>
+<a href="https://testnets.opensea.io/assets/sepolia/0x76b50696b8effca6ee6da7f6471110f334536321/1830" target="_blank">
+<img src="https://ipfs.io/ipfs/QmZ8oE5hYAsoBL2f4Lih7ZPsBEYEsKo6BdY8ZPsjNsXJ7M" alt="chapter 1" with='100' height='180'/> 
+</a>
