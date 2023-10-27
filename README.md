@@ -22,3 +22,9 @@ Thank you Patrick Collins for your awesome course.
 <a href="https://testnets.opensea.io/assets/sepolia/0x76b50696b8effca6ee6da7f6471110f334536321/1830" target="_blank">
 <img src="https://ipfs.io/ipfs/QmZ8oE5hYAsoBL2f4Lih7ZPsBEYEsKo6BdY8ZPsjNsXJ7M" alt="chapter 1" with='100' height='180'/> 
 </a>
+
+## Completed Repositories For Course
+
+- <a href="https://github.com/AlSirang/foundry-simple-storage" target="_blank">
+  Simple Storage
+  </a>
