@@ -1,6 +1,6 @@
 # Learn Solidity, Blockchain Development, & Smart Contracts with Foundry
 
-Fee Course by Patrick Collins.
+Free Course by Patrick Collins.
 
 [Playlist On Youtube](https://www.youtube.com/watch?v=umepbfKp5rI&list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42)
 
@@ -24,6 +24,9 @@ Thank you Patrick Collins for your awesome course.
 </a>
 <a href="https://testnets.opensea.io/assets/sepolia/0x76b50696b8effca6ee6da7f6471110f334536321/1836" target="_blank">
 <img src="https://ipfs.io/ipfs/QmUCK8YsB7Ln5u4Sn6WdsgtD87eEv5fCy1VaG8waMxXq6Q" alt="lesson 7" with='100' height='180'/> 
+</a>
+<a href="https://testnets.opensea.io/assets/sepolia/0x76b50696b8effca6ee6da7f6471110f334536321/1855" target="_blank">
+<img src="https://ipfs.io/ipfs/QmdqVCFTAirHW7tD1YpVKnqQFDhRd8UopQdLTrmWBjNfr3" alt="lesson 9" with='100' height='180'/> 
 </a>
 
 ## Completed Repositories For Course
