@@ -34,3 +34,6 @@ Thank you Patrick Collins for your awesome course.
 - <a href="https://github.com/AlSirang/foundry-fundme" target="_blank">
   Fund Me
   </a>
+- <a href="https://github.com/AlSirang/foundry-lottery-project" target="_blank">
+  Raffle Contract with Chainlink VRF
+  </a>
