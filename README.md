@@ -32,7 +32,7 @@ Thank you Patrick Collins for your awesome course.
 <img src="https://ipfs.io/ipfs/QmXKkrYX72KznwQhnE7tmSsNtCerPZFwCkGctUWf5RshMe" alt="lesson 10" with='100' height='180' title="lesson 10 NFT"/> 
 </a>
 <a href="https://testnets.opensea.io/assets/sepolia/0x76b50696b8effca6ee6da7f6471110f334536321/2064" target="_blank">
-<img src="https://ipfs.io/ipfs/QmZhuLYuSdxuN35ANgYNLGhX3s4eSbdYFqheyd1PqCDco2" alt="lesson 10" with='100' height='180' title="lesson 10 NFT"/> 
+<img src="https://ipfs.io/ipfs/QmZhuLYuSdxuN35ANgYNLGhX3s4eSbdYFqheyd1PqCDco2" alt="lesson 11" with='100' height='180' title="lesson 11 NFT"/> 
 </a>
 
 ## Completed Repositories For Course
