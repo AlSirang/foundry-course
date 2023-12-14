@@ -31,6 +31,9 @@ Thank you Patrick Collins for your awesome course.
 <a href="https://testnets.opensea.io/assets/sepolia/0x76b50696b8effca6ee6da7f6471110f334536321/1861" target="_blank">
 <img src="https://ipfs.io/ipfs/QmXKkrYX72KznwQhnE7tmSsNtCerPZFwCkGctUWf5RshMe" alt="lesson 10" with='100' height='180' title="lesson 10 NFT"/> 
 </a>
+<a href="https://testnets.opensea.io/assets/sepolia/0x76b50696b8effca6ee6da7f6471110f334536321/2064" target="_blank">
+<img src="https://ipfs.io/ipfs/QmZhuLYuSdxuN35ANgYNLGhX3s4eSbdYFqheyd1PqCDco2" alt="lesson 10" with='100' height='180' title="lesson 10 NFT"/> 
+</a>
 
 ## Completed Repositories For Course
 
@@ -45,4 +48,7 @@ Thank you Patrick Collins for your awesome course.
   </a>
 - <a href="https://github.com/AlSirang/foundry-erc20" target="_blank">
   ERC20 token using Openzeppelin Contracts 
+  </a>
+- <a href="https://github.com/AlSirang/foundry-erc721" target="_blank">
+   ERC721 Foundry Contract
   </a>
