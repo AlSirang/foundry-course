@@ -4,6 +4,8 @@ Free Course by Patrick Collins.
 
 [Playlist On Youtube](https://www.youtube.com/watch?v=umepbfKp5rI&list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42)
 
+[Updraft.cyfrin.io](https://updraft.cyfrin.io/)
+
 ## Acknowledgments
 
 Thank you Patrick Collins for your awesome course.
@@ -51,4 +53,7 @@ Thank you Patrick Collins for your awesome course.
   </a>
 - <a href="https://github.com/AlSirang/foundry-erc721" target="_blank">
    ERC721 Foundry Contract
+  </a>
+- <a href="https://github.com/AlSirang/foundry-decentralized-stable-coin" target="_blank">
+   Decentralized Stable Coin
   </a>
